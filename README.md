@@ -4,7 +4,7 @@ This project is an Image Viewer GUI in java, allowing users to perform various o
 Features:
 - Choose Image: Select an image file from directory.
 - Show Image: Display the selected image.
-- Adjust Brightness: Increase or decrease the brightness of the selected image.
+- Brightness: Increase or decrease the brightness of the selected image.
 - GrayScale: Convert the selected image to grayscale.
 - Resize: Scale the selected image to a desired dimension.
 
